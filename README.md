@@ -11,7 +11,14 @@
 ## Citation
 If you use NRMF in your research, please kindly cite this work by
 ```
-Ran, J., Lin, R., So, H. K., Chesi, G., & Wong, N. (2021, January). Exploiting Elasticity in Tensor Ranks for Compressing Neural Networks. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 9866-9873). IEEE.
+@inproceedings{ran2021exploiting,
+  title={Exploiting Elasticity in Tensor Ranks for Compressing Neural Networks},
+  author={Ran, Jie and Lin, Rui and So, Hayden KH and Chesi, Graziano and Wong, Ngai},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={9866--9873},
+  year={2021},
+  organization={IEEE}
+}
 ```
 
 ## Running Codes
